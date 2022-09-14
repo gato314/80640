@@ -1,0 +1,25 @@
+a:link {
+    color: #FF0000;
+  }
+  
+  a:visited {
+  color: #00FF00;
+  }
+  
+  a:hover {
+    color: #FF00FF;
+  }
+  
+  a:active {
+    color: #0000FF;
+  }
+#span{
+    margin: 100px;
+    padding: 100px;
+    color:blueviolet
+}
+
+#span1{
+    color:red;
+}
+
